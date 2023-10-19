@@ -1,4 +1,6 @@
-# OpenPay - 微信支付独立收银台, 为多个不同系统提供支付和提现接口. 实现快速对接收款以及发佣金，发红包等提现功能。
+# OpenPay - 微信支付独立收银台
+
+为多系统提供统一的支付和提现接口. 实现快速对接收款以及发佣金，发红包等提现功能。
 
 ## 特点
 
@@ -80,10 +82,10 @@ https://denopark.com 网站无需备案下，接入支付以及实现提现功�
 
 需要开通微信支付，以及绑定商户的认证公众号。
 
-- 1. git pull
-- 2. npm install
-- 3. cp .env.default .env （补全微信支付和公众号参数）
-- 4. npm start
+1. git pull
+2. npm install
+3. cp .env.default .env （补全微信支付和公众号参数）
+4. npm start
 
 ## 常见问题
 
